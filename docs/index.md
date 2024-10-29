@@ -5,7 +5,7 @@ This application, **gotektongithub291024**, was created from a Trusted Applicati
 The software templates create a new source and gitops deployment repositories with a sample source application. 
 
 ## Repositories
-
+ 
 The source code for your application can be found in [https://github.com/rhtap-qe-jsmid/gotektongithub291024 ](https://github.com/rhtap-qe-jsmid/gotektongithub291024 ).
  
 The gitops repository, which contains the kubernetes manifests for the application can be found in 
